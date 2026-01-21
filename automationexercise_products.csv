@@ -1,0 +1,36 @@
+product_id,product_name,category,brand,price,availability,product_url,image_url
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://automationexercise.com/static/images/home/logo.png
+1,Blue Top, | Category: Women > Tops,Polo,500,In Stock,https://automationexercise.com/product_details/1,https://automationexercise.com/get_product_picture/1
+2,Men Tshirt, | Category: Men > Tshirts,H&M,400,In Stock,https://automationexercise.com/product_details/2,https://automationexercise.com/get_product_picture/2
+3,Sleeveless Dress, | Category: Women > Dress,Madame,1000,In Stock,https://automationexercise.com/product_details/3,https://automationexercise.com/get_product_picture/3
+4,Stylish Dress, | Category: Women > Dress,Madame,1500,In Stock,https://automationexercise.com/product_details/4,https://automationexercise.com/get_product_picture/4
+5,Winter Top, | Category: Women > Tops,Mast & Harbour,600,In Stock,https://automationexercise.com/product_details/5,https://automationexercise.com/get_product_picture/5
+6,Summer White Top, | Category: Women > Tops,H&M,400,In Stock,https://automationexercise.com/product_details/6,https://automationexercise.com/get_product_picture/6
+7,Madame Top For Women, | Category: Women > Tops,Madame,1000,In Stock,https://automationexercise.com/product_details/7,https://automationexercise.com/get_product_picture/7
+8,Fancy Green Top, | Category: Women > Tops,Polo,700,In Stock,https://automationexercise.com/product_details/8,https://automationexercise.com/get_product_picture/8
+11,Sleeves Printed Top - White, | Category: Kids > Tops & Shirts,Babyhug,499,In Stock,https://automationexercise.com/product_details/11,https://automationexercise.com/get_product_picture/11
+12,Half Sleeves Top Schiffli Detailing - Pink, | Category: Kids > Tops & Shirts,Babyhug,359,In Stock,https://automationexercise.com/product_details/12,https://automationexercise.com/get_product_picture/12
+13,Frozen Tops For Kids, | Category: Kids > Tops & Shirts,Allen Solly Junior,278,In Stock,https://automationexercise.com/product_details/13,https://automationexercise.com/get_product_picture/13
+14,Full Sleeves Top Cherry - Pink, | Category: Kids > Tops & Shirts,Kookie Kids,679,In Stock,https://automationexercise.com/product_details/14,https://automationexercise.com/get_product_picture/14
+15,Printed Off Shoulder Top - White, | Category: Kids > Tops & Shirts,Babyhug,315,In Stock,https://automationexercise.com/product_details/15,https://automationexercise.com/get_product_picture/15
+16,Sleeves Top and Short - Blue & Pink, | Category: Kids > Dress,Babyhug,478,In Stock,https://automationexercise.com/product_details/16,https://automationexercise.com/get_product_picture/16
+18,Little Girls Mr. Panda Shirt, | Category: Kids > Tops & Shirts,Kookie Kids,1200,In Stock,https://automationexercise.com/product_details/18,https://automationexercise.com/get_product_picture/18
+19,Sleeveless Unicorn Patch Gown - Pink, | Category: Kids > Dress,Allen Solly Junior,1050,In Stock,https://automationexercise.com/product_details/19,https://automationexercise.com/get_product_picture/19
+20,Cotton Mull Embroidered Dress, | Category: Kids > Dress,Kookie Kids,1190,In Stock,https://automationexercise.com/product_details/20,https://automationexercise.com/get_product_picture/20
+21,Blue Cotton Indie Mickey Dress, | Category: Kids > Dress,Biba,1530,In Stock,https://automationexercise.com/product_details/21,https://automationexercise.com/get_product_picture/21
+22,Long Maxi Tulle Fancy Dress Up Outfits -Pink, | Category: Kids > Dress,Biba,1600,In Stock,https://automationexercise.com/product_details/22,https://automationexercise.com/get_product_picture/22
+23,Sleeveless Unicorn Print Fit & Flare Net Dress - Multi, | Category: Kids > Dress,Biba,1100,In Stock,https://automationexercise.com/product_details/23,https://automationexercise.com/get_product_picture/23
+24,Colour Blocked Shirt – Sky Blue, | Category: Kids > Tops & Shirts,Allen Solly Junior,849,In Stock,https://automationexercise.com/product_details/24,https://automationexercise.com/get_product_picture/24
+28,Pure Cotton V-Neck T-Shirt, | Category: Men > Tshirts,H&M,1299,In Stock,https://automationexercise.com/product_details/28,https://automationexercise.com/get_product_picture/28
+29,Green Side Placket Detail T-Shirt, | Category: Men > Tshirts,Polo,1000,In Stock,https://automationexercise.com/product_details/29,https://automationexercise.com/get_product_picture/29
+30,Premium Polo T-Shirts, | Category: Men > Tshirts,Polo,1500,In Stock,https://automationexercise.com/product_details/30,https://automationexercise.com/get_product_picture/30
+31,Pure Cotton Neon Green Tshirt, | Category: Men > Tshirts,H&M,850,In Stock,https://automationexercise.com/product_details/31,https://automationexercise.com/get_product_picture/31
+33,Soft Stretch Jeans, | Category: Men > Jeans,Polo,799,In Stock,https://automationexercise.com/product_details/33,https://automationexercise.com/get_product_picture/33
+35,Regular Fit Straight Jeans, | Category: Men > Jeans,H&M,1200,In Stock,https://automationexercise.com/product_details/35,https://automationexercise.com/get_product_picture/35
+37,Grunt Blue Slim Fit Jeans, | Category: Men > Jeans,Polo,1400,In Stock,https://automationexercise.com/product_details/37,https://automationexercise.com/get_product_picture/37
+38,Rose Pink Embroidered Maxi Dress, | Category: Women > Dress,Madame,2300,In Stock,https://automationexercise.com/product_details/38,https://automationexercise.com/get_product_picture/38
+39,Cotton Silk Hand Block Print Saree, | Category: Women > Saree,Biba,3000,In Stock,https://automationexercise.com/product_details/39,https://automationexercise.com/get_product_picture/39
+40,Rust Red Linen Saree, | Category: Women > Saree,Biba,3500,In Stock,https://automationexercise.com/product_details/40,https://automationexercise.com/get_product_picture/40
+41,Beautiful Peacock Blue Cotton Linen Saree, | Category: Women > Saree,Madame,5000,In Stock,https://automationexercise.com/product_details/41,https://automationexercise.com/get_product_picture/41
+42,Lace Top For Women, | Category: Women > Tops,Mast & Harbour,1400,In Stock,https://automationexercise.com/product_details/42,https://automationexercise.com/get_product_picture/42
+43,GRAPHIC DESIGN MEN T SHIRT - BLUE, | Category: Men > Tshirts,Mast & Harbour,1389,In Stock,https://automationexercise.com/product_details/43,https://automationexercise.com/get_product_picture/43
