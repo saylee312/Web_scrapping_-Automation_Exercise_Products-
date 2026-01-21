@@ -1,4 +1,4 @@
-# Automation Exercise Job Scraper
+# Automation Exercise Scraper
 
 ## Overview
 This project demonstrates how to extract structured data from a real-world website using Python web scraping techniques. The scraper collects the following details  by parsing HTML content.
